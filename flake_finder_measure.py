@@ -1,3 +1,4 @@
+# If not working, issue could be names. Ex. toupcam => toupcam_live or stage => acs_stage
 import time
 import numpy as np
 import cv2
